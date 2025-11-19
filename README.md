@@ -129,12 +129,3 @@ And converts it to structured format:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-For questions or issues, please open an issue on the GitHub repository or contact the development team.
-
----
-
-**Note**: This solution demonstrates 100% accuracy in extracting and structuring all information from the input document while maintaining the exact format and content as specified in the expected output.
