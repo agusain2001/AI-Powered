@@ -1,0 +1,224 @@
+[
+  {
+    "#": 1,
+    "Key": "First Name",
+    "Value": "Vijay",
+    "Comments": ""
+  },
+  {
+    "#": 2,
+    "Key": "Last Name",
+    "Value": "Kumar",
+    "Comments": ""
+  },
+  {
+    "#": 3,
+    "Key": "Date of Birth",
+    "Value": "1989-03-15 00:00:00",
+    "Comments": ""
+  },
+  {
+    "#": 4,
+    "Key": "Birth City",
+    "Value": "Jaipur",
+    "Comments": "Born and raised in the Pink City of India, his birthplace provides valuable regional profiling context"
+  },
+  {
+    "#": 5,
+    "Key": "Birth State",
+    "Value": "Rajasthan",
+    "Comments": "Born and raised in the Pink City of India, his birthplace provides valuable regional profiling context"
+  },
+  {
+    "#": 6,
+    "Key": "Age",
+    "Value": "35 years",
+    "Comments": "As on year 2024. His birthdate is formatted in ISO format for easy parsing, while his age serves as a key demographic marker for analytical purposes."
+  },
+  {
+    "#": 7,
+    "Key": "Blood Group",
+    "Value": "O+",
+    "Comments": "Emergency contact purposes."
+  },
+  {
+    "#": 8,
+    "Key": "Nationality",
+    "Value": "Indian",
+    "Comments": "Citizenship status is important for understanding his work authorization and visa requirements across different employment opportunities."
+  },
+  {
+    "#": 9,
+    "Key": "Joining Date of first professional role",
+    "Value": "2012-07-01 00:00:00",
+    "Comments": ""
+  },
+  {
+    "#": 10,
+    "Key": "Designation of first professional role",
+    "Value": "Junior Developer",
+    "Comments": ""
+  },
+  {
+    "#": 11,
+    "Key": "Salary of first professional role",
+    "Value": "350000",
+    "Comments": ""
+  },
+  {
+    "#": 12,
+    "Key": "Salary currency of first professional role",
+    "Value": "INR",
+    "Comments": ""
+  },
+  {
+    "#": 13,
+    "Key": "Current Organization",
+    "Value": "Resse Analytics",
+    "Comments": ""
+  },
+  {
+    "#": 14,
+    "Key": "Current Joining Date",
+    "Value": "2021-06-15 00:00:00",
+    "Comments": ""
+  },
+  {
+    "#": 15,
+    "Key": "Current Designation",
+    "Value": "Senior Data Engineer",
+    "Comments": ""
+  },
+  {
+    "#": 16,
+    "Key": "Current Salary",
+    "Value": "2800000",
+    "Comments": "This salary progression from his starting compensation to his current peak salary of 2,800,000 INR represents a substantial eight-fold increase over his twelve-year career span."
+  },
+  {
+    "#": 17,
+    "Key": "Current Salary Currency",
+    "Value": "INR",
+    "Comments": ""
+  },
+  {
+    "#": 18,
+    "Key": "Previous Organization",
+    "Value": "LakeCorp Solutions",
+    "Comments": ""
+  },
+  {
+    "#": 19,
+    "Key": "Previous Joining Date",
+    "Value": "2018-02-01 00:00:00",
+    "Comments": ""
+  },
+  {
+    "#": 20,
+    "Key": "Previous end year",
+    "Value": "2021",
+    "Comments": ""
+  },
+  {
+    "#": 21,
+    "Key": "Previous Starting Designation",
+    "Value": "Data Analyst",
+    "Comments": "Promoted in 2019"
+  },
+  {
+    "#": 22,
+    "Key": "High School",
+    "Value": "St. Xavier's School, Jaipur",
+    "Comments": ""
+  },
+  {
+    "#": 23,
+    "Key": "12th standard pass out year",
+    "Value": "2007",
+    "Comments": "His core subjects included Mathematics, Physics, Chemistry, and Computer Science, demonstrating his early aptitude for technical disciplines."
+  },
+  {
+    "#": 24,
+    "Key": "12th overall board score",
+    "Value": "0.925",
+    "Comments": "Outstanding achievement"
+  },
+  {
+    "#": 25,
+    "Key": "Undergraduate degree",
+    "Value": "B.Tech (Computer Science)",
+    "Comments": ""
+  },
+  {
+    "#": 26,
+    "Key": "Undergraduate college",
+    "Value": "IIT Delhi",
+    "Comments": ""
+  },
+  {
+    "#": 27,
+    "Key": "Undergraduate year",
+    "Value": "2011",
+    "Comments": "Graduating with honors and ranking 15th among 120 students in his class."
+  },
+  {
+    "#": 28,
+    "Key": "Undergraduate CGPA",
+    "Value": "8.7",
+    "Comments": "On a 10-point scale"
+  },
+  {
+    "#": 29,
+    "Key": "Graduation degree",
+    "Value": "M.Tech (Data Science)",
+    "Comments": ""
+  },
+  {
+    "#": 30,
+    "Key": "Graduation college",
+    "Value": "IIT Bombay",
+    "Comments": "Continued academic excellence at IIT Bombay"
+  },
+  {
+    "#": 31,
+    "Key": "Graduation year",
+    "Value": "2013",
+    "Comments": ""
+  },
+  {
+    "#": 32,
+    "Key": "Graduation CGPA",
+    "Value": "9.2",
+    "Comments": "Considered exceptional and scoring 95 out of 100 for his final year thesis project."
+  },
+  {
+    "#": 33,
+    "Key": "Certifications 1",
+    "Value": "AWS Solutions Architect",
+    "Comments": "Vijay's commitment to continuous learning is evident through his impressive certification scores. He passed the AWS Solutions Architect exam in 2019 with a score of 920 out of 1000"
+  },
+  {
+    "#": 34,
+    "Key": "Certifications 2",
+    "Value": "Azure Data Engineer",
+    "Comments": "Pursued in the year 2020 with 875 points."
+  },
+  {
+    "#": 35,
+    "Key": "Certifications 3",
+    "Value": "Project Management Professional certification",
+    "Comments": "Obtained in 2021, was achieved with an \"Above Target\" rating from PMI, These certifications complement his practical experience and demonstrate his expertise across multiple technology platforms."
+  },
+  {
+    "#": 36,
+    "Key": "Certifications 4",
+    "Value": "SAFe Agilist certification",
+    "Comments": "Earned him an outstanding 98% score. Certifications complement his practical experience and demonstrate his expertise across multiple technology platforms."
+  },
+  {
+    "#": 37,
+    "Key": "Technical Proficiency",
+    "Value": "",
+    "Comments": "In terms of technical proficiency, Vijay rates himself highly across various skills, with SQL expertise at a perfect 10 out of 10, reflecting his daily usage since 2012. His Python proficiency scores 9 out of 10, backed by over seven years of practical experience, while his machine learning capabilities rate 8 out of 10, representing five years of hands-on implementation. His cloud platform expertise, including AWS and Azure certifications, also rates 9 out of 10 with more than four years of experience, and his data visualization skills in Power BI and Tableau score 8 out of 10, establishing him as an expert in the field."
+  }
+]
